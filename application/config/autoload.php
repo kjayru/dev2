@@ -62,6 +62,7 @@ $autoload['packages'] = array();
 
 $autoload['libraries'] = array();
 
+$autoload['config'] = array('cms');
 
 /*
 | -------------------------------------------------------------------
